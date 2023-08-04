@@ -9,6 +9,8 @@ Information_Retrieval_System - Data Engineer Project
 ## Architecture
 <img width="812" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/e829bfb5-d1b3-4d12-a456-a1ec434fb981">
 
+<img width="668" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/4d3c5e7c-ea76-407f-b059-c9b1e21bb5e6">
+
 ## Output screenshot
 
 ## Search Page
