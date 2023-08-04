@@ -14,7 +14,7 @@ The central aim of this project is to engineer a sophisticated yet user-friendly
 - AWS Services: Leveraged Amazon S3 for data storage, AWS EMR for distributed data processing, and DynamoDB for efficient data retrieval.
 - Apache Spark: Utilized Spark RDDs to perform TF-IDF calculations, resulting in a significant reduction in processing time.
 - TF-IDF (Term Frequency-Inverse Document Frequency): Calculated and analyzed TF-IDF scores to quantify the relevance of documents to search queries.
-- S3- For intermediate storage of tf-idf calculations and title of the documents.
+- S3- For Data ingestion and intermediate storage of tf-idf calculations and title of the documents.
 - DynamoDB Tables: Created two DynamoDB tables, 'tfidf' and 'doctitle,' to store processed data efficiently, with careful consideration of partition and sort keys.
 - AWS Lambda: Orchestrated the system's functionality into an AWS Lambda function, ensuring seamless execution and scalability.
 - HTML and CSS: Developed an HTML-based user interface, 'search.html,' which communicates with the Lambda function to display search results.
