@@ -1,15 +1,17 @@
-# Information_Retrieval_System
-Information_Retrieval_System - Data Engineer Project 
+# Information_Retrieval_System 
+
+## Problem Statement
 
 ## TFIDF- Calculation
 
 <img width="635" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/30e096f4-4e78-49db-a0d2-e4142f17c9c0">
 
 
-## Architecture
+## Pipeline Architecture
 <img width="812" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/e829bfb5-d1b3-4d12-a456-a1ec434fb981">
 
-<img width="812" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/4d3c5e7c-ea76-407f-b059-c9b1e21bb5e6">
+<img width="812" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/3b1cb2bc-b281-47bd-8dff-7e604da65948">
+
 
 ## Output screenshot
 
