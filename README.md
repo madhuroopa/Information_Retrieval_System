@@ -29,7 +29,8 @@ The central aim of this project is to engineer a sophisticated yet user-friendly
 <img width="635" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/30e096f4-4e78-49db-a0d2-e4142f17c9c0">
 
 - Formula:
-  <img width="468" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/f7899b0b-03b2-4d4c-8559-763a7f699f16">
+
+  - <img width="468" alt="image" src="https://github.com/madhuroopa/Information_Retrieval_System/assets/22576343/f7899b0b-03b2-4d4c-8559-763a7f699f16">
 
 - Leverage the distributed computing capabilities of Apache Spark running on AWS EMR (Elastic MapReduce) to calculate TF-IDF scores.
 - Utilize Spark RDDs to efficiently process and analyze the text data, resulting in accurate TF-IDF values for each term-document pair.
