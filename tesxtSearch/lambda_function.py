@@ -77,7 +77,7 @@ def search(line):
     docids = get_docids_for_terms(terms)
     return sort_and_limit([(docid, compute_doc_relevance(docid, terms)) for docid in docids])
 
-##  Implements the formula for relevance specified in the assignment -- output is a float.
+##  Implements the formula for relevance formula -- output is a float.
 ##    Should return 0.0 if the terms list is empty or none of the terms appear in the document   
 
 def compute_doc_relevance(docid, terms):
